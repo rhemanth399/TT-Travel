@@ -1,0 +1,20 @@
+.main{
+    background: linear-gradient(135deg, #eecfc8, #feb47b); /* Example gradient */
+  color: white; /* Adjust text color if needed */
+    height: 200px;
+    text-align: center;
+ 
+}
+
+.Banner-heading{
+    font-size: 35px;
+    padding: 20px;
+    color: red;
+}
+.Banner-subHeading{
+    font-size: 25px;
+    color:black;
+    padding-top: 20px;
+    
+
+}
